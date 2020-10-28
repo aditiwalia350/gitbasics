@@ -1,5 +1,5 @@
 # gitbasics
-Practicing git commands
+Practicing git commands \newline
 
 -> git clone https://github.com/aditiwalia350/gitbasics.git
 -> git checkout -b new_branch
