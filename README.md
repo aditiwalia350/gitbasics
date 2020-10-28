@@ -1,7 +1,6 @@
 # gitbasics
 Practicing git commands
 
-
 -> git clone https://github.com/aditiwalia350/gitbasics.git
 -> git checkout -b new_branch
 -> vim demo_file
